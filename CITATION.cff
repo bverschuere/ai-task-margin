@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the two papers listed in preferred-citation and the README."
+title: "AI Task Margins: Workflow Completeness (C*) scores for US occupations under six LLM raters"
+authors:
+  - family-names: Verschuere
+    given-names: Benjamin
+  - family-names: Cameron
+    given-names: Angus
+type: dataset
+license: CC-BY-4.0
+url: "https://github.com/liminal-capital/ai-task-margins"
+version: 1.0.0
+date-released: 2026-08-19
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21420713
+    description: "Replication archive: scoring prompt, raw model outputs, replication notebook"
+preferred-citation:
+  type: article
+  title: "Hiding in the Mean: The Two Margins of AI's Employment Effect"
+  authors:
+    - family-names: Verschuere
+      given-names: Benjamin
+    - family-names: Cameron
+      given-names: Angus
+  year: 2026
+  notes: "SSRN 7195359"
