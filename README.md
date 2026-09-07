@@ -6,7 +6,7 @@ This repository carries **two measures built from one grading** of the 17,536 O*
 
 **2. The unsigned ceiling, C\*.** Workflow Completeness, C* = S + (2/3)m3 + (1/3)m2: the one-number summary for uses where a scalar suffices (adoption and productivity applications), included for comparability with the exposure-index literature.
 
-**Main rater: Claude Sonnet 4 (the papers' incumbent, v6 protocol).** Scores under all six raters are included so the stability of any result can be checked directly.
+**Main rater: Claude Sonnet 4 (the papers' incumbent).** Scores under all six raters are included so the stability of any result can be checked directly.
 
 ## Files
 
