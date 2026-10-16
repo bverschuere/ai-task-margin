@@ -44,8 +44,9 @@ The file ships without employment counts so it never goes stale. To weight by em
 
 If you use these scores, please cite:
 
-- Verschuere, B. and A. Cameron, "Hiding in the Mean: The Two Margins of AI's Employment Effect" (SSRN 7195359): the margins and their employment effects.
-- Verschuere, B. and A. Cameron, "Task-Level AI Exposure Doesn't Need to Vary" (under review, Economics Letters; SSRN 7154706): the rater-stability result.
+- Verschuere, B. and A. Cameron, “Hiding in the Mean: The Two Margins of AI’s Employment Effect” (SSRN 7195359) — the margins and their employment effects.
+- Verschuere, B. and A. Cameron, “The Two Axes That Sort AI Use: Task-Level Evidence from Platform Usage Logs” (SSRN 7408558; under review, PNAS Nexus) — the measure’s construction, rater stability, validation, and usage evidence.
+- Verschuere, B. and A. Cameron, “A Protocol for Rater-Invariant Measures from Language Models, with an Application to AI Exposure” (SSRN 7114299; 2026 Conference on Frontiers in Machine Learning and Economics, Federal Reserve Bank of Philadelphia and Chicago Booth) — the measurement protocol.
 
 License: **CC BY 4.0**. Use freely, attribute. We would genuinely like to hear about results built on these scores, including results that break them: ben.verschuere@liminal-capital.com
 
